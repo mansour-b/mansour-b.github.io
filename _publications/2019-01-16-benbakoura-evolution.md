@@ -2,7 +2,7 @@
 title: "Evolution of star-planet systems under magnetic braking and tidal interaction"
 collection: publications
 category: manuscripts
-permalink: /publication/benbakoura_evolution_2019
+permalink: /publication/2019-01-16-benbakoura-evolution
 excerpt: 'This paper introduces ESPEM (French acronym for Evolution of Planetary Systems and Magnetism), a secular evolution model of star--planet systems under stellar-wind braking and tidal interactions.'
 date: 2019-01-16
 venue: 'Astronomy & Astrophysics'
