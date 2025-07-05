@@ -38,8 +38,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0200-3710"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://researchgate.net/profile/Mansour-Benbakoura"
   scopus           : # URL
 
   # Repositories and software development
