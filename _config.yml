@@ -22,7 +22,7 @@ repository               : "mansour-b/mansour-b.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BENBAKOURA_square.png"
   name             : "Mansour Benbakoura"
   pronouns         : # example: "she/her"  
   bio              : "Numerical methods for physics"
