@@ -37,10 +37,8 @@ Work experience
   
 Skills
 ======
-* Languages: French (mothertongue), English (fluent), Italian (C1), German (rusty but not that bad)
-* Python, C++, Fortran, Matlab, R
-* One-hand backhand
-* One-hand clapping
+* **Languages**: French (mothertongue), English (fluent), Italian (C1), German (rusty but not that bad)
+* **Programming**: Python, C++, Fortran, Matlab, R
 
 Publications
 ======
