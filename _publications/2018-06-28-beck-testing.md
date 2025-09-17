@@ -1,5 +1,6 @@
 ---
 title: "Testing tidal theory for evolved stars by using red giant binaries observed by Kepler"
+link: "https://academic.oup.com/mnrasl/article/479/1/L123/5046464"
 collection: publications
 category: manuscripts
 date: 2018-06-28
