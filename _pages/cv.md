@@ -37,12 +37,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: French (mothertongue), English (fluent), Italian (C1), German (rusty but not that bad)
+* Python, C++, Fortran, Matlab, R
+* One-hand backhand
+* One-hand clapping
 
 Publications
 ======
