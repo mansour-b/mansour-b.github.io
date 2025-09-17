@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astrophysics, Université de Paris, France, 2019
+  * Title: _Evolution of interacting low-mass stars: multitechnical observations and modeling of multiple systems_
+* M.S. "Analysis, Modeling, Simulation", Université Paris--Saclay, France, 2016
+  * Mathematical methods to model physical phenomena (e.g., propagation, diffusion, transport)
+  * Numerical methods to solve the associated problems
+* M.Eng., ENSTA Paris, France, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 -- today: Postdoctoral Researcher, INRIA, Saclay, France
+  * Event detection for large-scale physical simulations
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 -- 2023: AI Research Scientist, Milvue, Paris, France
+  * Startup company; computer vision for radiology
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 -- 2019: PhD Candidate, CEA, Saclay, France
   
 Skills
 ======
