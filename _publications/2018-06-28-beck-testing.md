@@ -3,7 +3,6 @@ title: "Testing tidal theory for evolved stars by using red giant binaries obser
 collection: publications
 category: manuscripts
 permalink: /publication/2018-06-28-beck-testing
-excerpt: 'This work contributes to improving our understanding of the secular evolution of star--planet and multiple-star systems by leveraging asteroseismic analyses of red giants in binaries and recent results from the theory of tidal dissipation.'
 date: 2018-06-28
 venue: 'Monthly Notices of the Royal Astronomical Society: Letters'
 paperurl: 'https://academic.oup.com/mnrasl/article-pdf/479/1/L123/56976736/mnrasl_479_1_l123.pdf'
