@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Signal Processing: from Fourier to Machine Learning"
+link: "https://remi.flamary.com/cours/map555_signal_processing.html"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "3rd year/M1 course"
+venue: "Ecole polytechnique"
+date: 2025-10-01
+location: "Palaiseau, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Coordinated by [Rémi Flamary](https://remi.flamary.com/), with practical sessions for one group conducted by me.
