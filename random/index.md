@@ -14,4 +14,4 @@ This is the secret page — you found it!
 
 | ![](/images/gaussian_mixture_models.png) | ![](/images/smooth_manifold.png) | ![](/images/otto_von_benchmark.png) | ![](/images/kantorovitch_relaxation.png) |
 |:----------------------------------------:|:--------------------------------:|:-----------------------------------:|:----------------------------------------:|
-| Gaussian Mixture Models                  |                                  |                                     | Kantorovitch Relaxation                  |
+| Gaussian Mixture Models                  | (Self-explanatory)               | (Self-explanatory)                  | Kantorovitch Relaxation                  |
