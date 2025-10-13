@@ -19,11 +19,13 @@ end
 
 Liquid::Template.register_filter(Jekyll::DigestFilter)
 
+# --- Give the "Random Stuff" page a daily hashed permalink
 Jekyll::Hooks.register :pages, :pre_render do |page, payload|
-  if page.data['title'] == 'Random Stuff'
-    today = Time.now.utc.strftime("%Y-%m-%d")
+  # match either by title (case-insensitive) or filename containing 'random'
+  if page.data['title']&.downcase == 'random stuff' || page.path.include?('random')
+    today = Time.now.utc.strftime('%Y-%m-%d')
     hash  = Digest::MD5.hexdigest(today)[0,8]
     page.data['permalink'] = "/random-#{hash}/"
+    Jekyll.logger.info "✨ Random Stuff permalink set to:", page.data['permalink']
   end
 end
-  
