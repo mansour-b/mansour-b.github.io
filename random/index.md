@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "Random Stuff"
-permalink: "/random-{{ site.time | date: '%Y-%m-%d' | digest: 'MD5' | slice: 0,8 }}/"
 author_profile: true
 ---
 

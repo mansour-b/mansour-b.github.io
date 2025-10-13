@@ -18,3 +18,12 @@ module Jekyll
 end
 
 Liquid::Template.register_filter(Jekyll::DigestFilter)
+
+Jekyll::Hooks.register :pages, :pre_render do |page, payload|
+  if page.data['title'] == 'Random Stuff'
+    today = Time.now.utc.strftime("%Y-%m-%d")
+    hash  = Digest::MD5.hexdigest(today)[0,8]
+    page.data['permalink'] = "/random-#{hash}/"
+  end
+end
+  
