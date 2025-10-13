@@ -24,24 +24,6 @@
           <li class="masthead__menu-item" id="secret-item" style="display:none;">
             <a href="{{ '/random/' | relative_url }}">Random Stuff</a>
           </li>
-          <script>
-            document.addEventListener("DOMContentLoaded", () => {
-              const pubsLink = [...document.querySelectorAll('.masthead__menu-item a')]
-                .find(a => a.textContent.trim() === 'Publications');
-              const secret = document.getElementById('secret-item');
-              let clicks = 0;
-
-              if (pubsLink && secret) {
-                pubsLink.addEventListener('click', e => {
-                  clicks++;
-                  if (clicks === 5) {
-                    secret.style.display = 'inline-block';
-                    secret.classList.add('revealed');
-                  }
-                });
-              }
-            });
-          </script>
         {% endif %}
       </nav>
     </div>
