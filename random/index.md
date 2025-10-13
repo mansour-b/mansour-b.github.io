@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Random Stuff"
+title: "🎲 Random Stuff"
 author_profile: true
 ---
 
