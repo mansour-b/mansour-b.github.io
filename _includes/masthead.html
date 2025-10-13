@@ -16,8 +16,10 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           {% if page.url contains "publications" %}
+            {% assign today = site.time | date: "%Y-%m-%d" %}
+            {% assign hash = today | digest: "MD5" | slice: 0,8 %}
             <li class="masthead__menu-item" id="secret-item" style="display:none;">
-              <a href="{{ '/random/' | relative_url }}">Random Stuff</a>
+              <a href="{{ '/random-' | append: hash | append: '/' | relative_url }}">Random Stuff</a>
             </li>
             <script>
               document.addEventListener("DOMContentLoaded", () => {
