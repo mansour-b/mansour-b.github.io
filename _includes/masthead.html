@@ -20,7 +20,7 @@
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
-        {% if page.url == "/publications/" %}
+        {% if page.url contains "publications" %}
           <li class="masthead__menu-item" id="secret-item" style="display:none;">
             <a href="{{ '/random/' | relative_url }}">Random Stuff</a>
           </li>
