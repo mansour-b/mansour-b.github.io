@@ -37,13 +37,11 @@ jobs:
       - name: Touch rebuild marker
         run: date > _rebuild.txt
 
-      # --- Build the Jekyll site (with plugin debug info)
-      - name: Build site (debug)
+      # --- Build the Jekyll site
+      - name: Build site
         run: |
           echo "🔍 Jekyll version:"
           bundle exec jekyll -v
-          echo "🔍 Listing _plugins directory contents:"
-          ls -la _plugins || echo "No _plugins directory found"
           echo "🔍 Building site..."
           bundle exec jekyll build --trace --verbose
 
