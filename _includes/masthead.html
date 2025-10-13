@@ -16,9 +16,26 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           {% if page.url contains "publications" %}
-            <li class="masthead__menu-item">
+            <li class="masthead__menu-item" id="secret-item" style="display:none;">
               <a href="{{ '/random/' | relative_url }}">Random Stuff</a>
             </li>
+            <script>
+              document.addEventListener("DOMContentLoaded", () => {
+                const pubsHeader = document.querySelector('h1.page__title, h1.archive__title, h1');
+                const secretItem = document.getElementById('secret-item');
+                let clicks = 0;
+
+                if (pubsHeader && secretItem) {
+                  pubsHeader.addEventListener('click', () => {
+                    clicks++;
+                    if (clicks === 5) {
+                      secretItem.style.display = 'inline-block';
+                      secretItem.classList.add('revealed');
+                    }
+                  });
+                }
+              });
+            </script>
           {% endif %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
