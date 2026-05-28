@@ -18,6 +18,8 @@ However, existing models either remain computationally intractable for applicati
 
 Building on the observation that complex physical systems spontaneously organize into structures across scales, my research develops computational methods to detect and characterize these structures in order to build reduced descriptions of multiscale dynamics from large simulation and experimental datasets.
 
+The figure below illustrates this workflow: a turbulent simulation is analyzed to extract coherent structures and their dynamical properties.
+
 ![](/images/illustration_home.png)
 
 I currently focus on plasma physics, where multiscale dynamics, high-dimensional simulations, and sparse diagnostics naturally motivate structure-aware approaches at the interface of physics, scientific computing, and machine learning.
