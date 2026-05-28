@@ -7,11 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-<h2 style="margin-top: -0.5em;">
+<h3 style="margin-top: -0.5em;">
 Structure-aware computational methods for multiscale dynamics in physics
-</h2>
+</h3>
 
-I am a researcher in numerical methods for physics, with a focus on developing computational approaches to better understand complex physical systems. My current work centers on rare-event detection in large-scale numerical simulations.  
+
+
+Understanding the nonlinear, multiscale dynamics of physical systems is crucial for major societal challenges such as fusion energy and space weather.
+
+However, existing models either remain computationally intractable for applications requiring real-time or long-term prediction, or miss key physical ingredients needed to accurately capture some dynamical regimes.
+
+Building on the observation that complex physical systems spontaneously organize into structures across scales, my research develops computational methods to detect and characterize these structures in order to build reduced descriptions of multiscale dynamics from large simulation and experimental datasets.
+
+I currently focus on plasma physics, where multiscale dynamics, high-dimensional simulations, and sparse diagnostics naturally motivate structure-aware approaches at the interface of physics, scientific computing, and machine learning.
 
 I am currently a postdoctoral researcher at [INRIA Saclay](https://www.inria.fr/) within the [MIND](https://team.inria.fr/mind/) team, where I collaborate with [Thomas Moreau](https://tommoral.github.io) and [Virginie Grandgirard (CEA/IRFM)](https://www.researchgate.net/profile/Virginie-Grandgirard).
 
