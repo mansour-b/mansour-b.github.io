@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h3 style="margin-top: -0.2em; margin-bottom: 0.5em;">
+<h3 style="margin-top: -0.2em; margin-bottom: 2em;">
 Structure-aware computational methods for multiscale dynamics in physics
 </h3>
 
@@ -22,7 +22,7 @@ I currently focus on plasma physics, where multiscale dynamics, high-dimensional
 
 I am currently a postdoctoral researcher at [INRIA Saclay](https://www.inria.fr/) within the [MIND](https://team.inria.fr/mind/) team. More information about my background can be found on my [CV page](https://mansour-b.github.io/cv/).
 
-<br>
+<div style="margin-top: 0.5em;"></div>
 
 Here are some keywords that broadly summarize my research:
 
