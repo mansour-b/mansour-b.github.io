@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+<h2 style="margin-top: -0.5em; color: #666;">
+Structure-aware computational methods for multiscale plasma systems
+</h2>
+
+<p style="font-size: 1.2em; margin-top: -1em;">
+Structure-aware computational methods for multiscale plasma systems
+</p>
+
 I am a researcher in numerical methods for physics, with a focus on developing computational approaches to better understand complex physical systems. My current work centers on rare-event detection in large-scale numerical simulations.  
 
 I am currently a postdoctoral researcher at [INRIA Saclay](https://www.inria.fr/) within the [MIND](https://team.inria.fr/mind/) team, where I collaborate with [Thomas Moreau](https://tommoral.github.io) and [Virginie Grandgirard (CEA/IRFM)](https://www.researchgate.net/profile/Virginie-Grandgirard).
