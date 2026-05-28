@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<h3 style="margin-top: -0.5em;">
-Structure-aware computational methods for multiscale dynamics in physics
-</h3>
+<h3>Structure-aware computational methods for multiscale dynamics in physics</h3>
 
-
+<br>
 
 Understanding the nonlinear, multiscale dynamics of physical systems is crucial for major societal challenges such as fusion energy and space weather.
 
@@ -22,3 +20,15 @@ Building on the observation that complex physical systems spontaneously organize
 I currently focus on plasma physics, where multiscale dynamics, high-dimensional simulations, and sparse diagnostics naturally motivate structure-aware approaches at the interface of physics, scientific computing, and machine learning.
 
 I am currently a postdoctoral researcher at [INRIA Saclay](https://www.inria.fr/) within the [MIND](https://team.inria.fr/mind/) team. More information about my background can be found on my [CV page](https://mansour-b.github.io/cv/).
+
+<br>
+
+Here are some keywords that broadly summarize my research:
+
+| Physics                        | Methods                     |
+|--------------------------------|-----------------------------|
+| Plasma turbulence              | Scientific machine learning |
+| Fusion plasmas                 | Signal/image processing     |
+| Solar and stellar astrophysics | Sparse representations      |
+| Multiscale dynamics            | Unsupervised learning       |
+| Coherent structures            | Computer vision             |
