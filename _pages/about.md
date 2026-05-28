@@ -18,12 +18,7 @@ However, existing models either remain computationally intractable for applicati
 
 Building on the observation that complex physical systems spontaneously organize into structures across scales, my research develops computational methods to detect and characterize these structures in order to build reduced descriptions of multiscale dynamics from large simulation and experimental datasets.
 
-<object data="https://mansour-b.github.io/images/illustration_home.pdf" type="application/pdf" width="1920px" height="1080px">
-    <embed src="https://mansour-b.github.io/images/illustration_home.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mansour-b.github.io/images/illustration_home.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
+![](/images/illustration_home.png)
 
 I currently focus on plasma physics, where multiscale dynamics, high-dimensional simulations, and sparse diagnostics naturally motivate structure-aware approaches at the interface of physics, scientific computing, and machine learning.
 
