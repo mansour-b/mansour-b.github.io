@@ -9,7 +9,6 @@ redirect_from:
 
 <h3>Structure-aware computational methods for multiscale dynamics in physics</h3>
 
-<br>
 
 Understanding the nonlinear, multiscale dynamics of physical systems is crucial for major societal challenges such as fusion energy and space weather.
 
