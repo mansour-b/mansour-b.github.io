@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h2 style="margin-top: -0.5em;">
-Structure-aware computational methods for plasma physics
+Structure-aware computational methods for multiscale dynamics in physics
 </h2>
 
 I am a researcher in numerical methods for physics, with a focus on developing computational approaches to better understand complex physical systems. My current work centers on rare-event detection in large-scale numerical simulations.  

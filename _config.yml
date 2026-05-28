@@ -25,7 +25,7 @@ author:
   avatar           : "BENBAKOURA_square.jpg"
   name             : "Mansour Benbakoura"
   pronouns         : # example: "she/her"  
-  bio              : "Numerical methods for physics"
+  bio              : "Structure-aware methods for multiscale physical dynamics"
   location         : "Paris, France"
   employer         : "INRIA Saclay"
   uri              : # URL
