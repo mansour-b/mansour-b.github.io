@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-**RoseCDL: Robust and Scalable Convolutional Dictionary Learning for rare-event and anomaly detection**
-J. Yehya*, **M. Benbakoura***, C. Allain, B. Malézieux, M. Kowalski, T. Moreau
-_AISTATS_ (2026)
+**RoseCDL: Robust and Scalable Convolutional Dictionary Learning for rare-event and anomaly detection**<br>
+J. Yehya*, **M. Benbakoura***, C. Allain, B. Malézieux, M. Kowalski, T. Moreau<br>
+_AISTATS_ (2026)<br>
 [link](virtual.aistats.org/virtual/2026/poster/13870)
 
 **Automatic deep learning-based assessment of spinopelvic coronal and sagittal alignment**
