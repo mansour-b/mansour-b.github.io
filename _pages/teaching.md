@@ -19,7 +19,7 @@ Teaching assistant<br>
 Total teaching: 128 hours
 
 
-[2017] **Introduction to stellar evolution and asteroseismology**
+[2017] **Introduction to stellar evolution and asteroseismology**<br>
 Université Paris-Diderot (M2)<br>
 Lecturer<br>
 Total teaching: 4 hours
