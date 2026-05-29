@@ -31,8 +31,8 @@ _A&A_ (2021)
 
 
 **Active red giants: Close binaries versus single rapid rotators**<br>
-P. Gaulme, J. Jackiewicz, F. Spada, D. Chojnowski, B. Mosser, J. McKeever, A. Hedlund, M. Vrard, **M. Benbakoura**, C. Damiani
-_A&A_ (2020)<br>
+P. Gaulme, J. Jackiewicz, F. Spada, D. Chojnowski, B. Mosser, J. McKeever, A. Hedlund, M. Vrard, **M. Benbakoura**, C. Damiani<br>
+_A&A_ (2020)
 [paper](https://www.aanda.org/articles/aa/pdf/2020/07/aa37781-20.pdf)
 
 **A giant impact as the likely origin of different twins in the Kepler-107 exoplanet system**<br>
