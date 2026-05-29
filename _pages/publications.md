@@ -7,6 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
+{% include base_path %}
 
 **RoseCDL: Robust and Scalable Convolutional Dictionary Learning for rare-event and anomaly detection**<br>
 J. Yehya\*, **M. Benbakoura**\*, C. Allain, B. Malézieux, M. Kowalski, T. Moreau<br>
