@@ -13,7 +13,7 @@ Course coordinated by [Rémi Flamary](https://remi.flamary.com/), with practical
 Total teaching: 30 hours
 
 
-[2017--2019] **Introductory courses in physics (electricity, optics, mechanics, electromagnetism)**<br>
+[2017--2019] **Introductory physics (electricity, optics, mechanics, electromagnetism)**<br>
 IUT Paris-Diderot (1A/2A)<br>
 Teaching assistant<br>
 Total teaching: 128 hours
